@@ -1,0 +1,2 @@
+# Health-Care-App
+The goal of this application is to deliver a healthy life to it's user. User can create and log in with their account. This application can calculate user BMI and depending on that, it will suggest an user some task like how many times they should drink water(based on weight), the number of calories they can eat(based on age). Also user can make medicine and water reminder, which will notify them about their upcoming events.
