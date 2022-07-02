@@ -1,2 +1,16 @@
-# Health-Care-App
-The goal of this application is to deliver a healthy life to it's user. User can create and log in with their account. This application can calculate user BMI and depending on that, it will suggest an user some task like how many times they should drink water(based on weight), the number of calories they can eat(based on age). Also user can make medicine and water reminder, which will notify them about their upcoming events.
+# health_care
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
